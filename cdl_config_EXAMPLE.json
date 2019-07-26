@@ -1,0 +1,6 @@
+{
+    "password": "supersecret",
+    "user": "allpowerfulloz",
+    "url_base": "https://qa-oapolicy.universityofcalifornia.edu:8002/elements-secure-api/",
+    "xmlns": "http://www.symplectic.co.uk/publications/api"
+}

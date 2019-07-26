@@ -1,0 +1,15 @@
+doi,user,grant
+#
+# Lines that start with hash are comments
+#
+# You can link a pub to a user and a pub to a grant in the same line.
+# The pub and the grant are matched using a regex. The link will only
+# be attempted if exactly one item matches for each. Otherwise, a message
+# will be noted in the result file.
+"10.1016/j.copbio.2017.03.014","jdkeasling@lbl.gov","High Energy Physics"
+"10.1016/j.biortech.2017.05.001","jdkeasling@lbl.gov","Federal Bureau of Investigation"
+# You do no have to link both in the same lin. You can have a line that 
+# links only a pub to a grant or only a pub to a user. Just leasve out 
+# the other info:
+"10.1016/j.biortech.2017.05.001","jdkeasling@lbl.gov",
+"10.1016/j.copbio.2017.03.014",,"High Energy Physics"
