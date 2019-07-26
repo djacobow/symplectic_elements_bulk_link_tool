@@ -1,6 +1,8 @@
 #!/usr/local/bin/python3
 
-# remove all of a user's suggested pubs
+# copy "professional activities" from one user to another. This is helpful
+# when a user accidentally had two accounts, such as when a joint appointee
+# was not handled correctly and they have been using both accounts.
 
 import re
 import urllib.parse
