@@ -84,7 +84,7 @@ spreadsheet of DOIs and usernames, and rejects the publications listed.
 
 #### Author
 
-dgj@lbl.gov
+Dave Jacobowitz (djacobow)
 
 #### Version & History
 
